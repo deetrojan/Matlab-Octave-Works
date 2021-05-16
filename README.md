@@ -1,5 +1,5 @@
 # Matlab-Octave-Works
-This repository contains all of the works made in Octave and Matlab. Works include Tutorials, Mathematical Research and some challenging technical problems.
+This repository contains all of the works made in Octave and Matlab. Works include Tutorials, Mathematical and some challenging technical problems.
 
 Hello, I am Deepak Thanvi. I am Computer Science Engineer.
 I have interest in both Computer Science and Mathematics.
